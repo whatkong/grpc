@@ -17,7 +17,7 @@
     },
     "require": {
         "php": ">=7.2",
-        "google/protobuf": "^3.6.1"
+        "google/protobuf": "^4.0"
     },
     "require-dev": {
         "malukenho/docheader": "^0.1.6",
